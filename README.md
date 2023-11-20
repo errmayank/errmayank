@@ -6,7 +6,7 @@
     </span>
     <br>
     <span>
-      I love web technologies and building things for the web.
+      I build things for the web.
     </span>
     <br>
   </samp>
